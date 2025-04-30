@@ -4,9 +4,9 @@
 My focus is on solving real-world problems using Python in areas like machine learning, data analysis, and intelligent systems.
 Additionally, I'm currently taking a course in **SAP ABAP** to expand my knowledge in enterprise software development.
 
-🚧 **Note:** I’m still working on building and refining my GitHub profile, so stay tuned for more projects and updates!
-
 🛠️ I also have strong practical experience in **computer hardware**, including building and configuring custom PC systems.
+
+🚧 **Note:** I’m still working on building and refining my GitHub profile, so stay tuned for more projects and updates!
 
 ## 📌 Current Projects
 
