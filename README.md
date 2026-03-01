@@ -6,7 +6,6 @@
   <a href="https://github.com/ItsWadi3"><img src="https://img.shields.io/badge/GitHub-ItsWadi3-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/n8n-Automation_Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-AI_Agent-6C63FF?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=chatbot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
