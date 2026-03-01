@@ -61,19 +61,27 @@ I also work with **Python** for machine learning and data analysis, and I'm curr
 
 ## 📌 Current Projects
 
-### 🤖 Die Chatbot Werkstatt – Intelligente Chatbots für reale Anwendungsfälle
+### 📄 Document Processing and Data Extraction with AI
 
-> Develop smart chatbots using different approaches tailored to organization-specific knowledge.
+> Using AI to read and classify invoices, contracts, and applications, then inserting structured data into ERP/CRM systems automatically.
 
 | | |
 |---|---|
-| **Approach** | Multiple chatbot architectures for real-world use cases |
-| **Tools** | Typebot, n8n, API Integrations |
-| **Goal** | Context-aware, domain-specific conversational AI |
+| **Approach** | AI-powered document classification and data extraction |
+| **Tools** | n8n, Antigravity, API Integrations |
+| **Goal** | Automate end-to-end document workflows from intake to ERP/CRM entry |
 
 ---
 
 ## 💼 Past Projects
+
+<details>
+<summary><strong>🤖 Die Chatbot Werkstatt – Intelligente Chatbots für reale Anwendungsfälle</strong></summary>
+<br>
+
+Developed smart chatbots using different approaches tailored to organization-specific knowledge. Built with Typebot, n8n, and API integrations.
+
+</details>
 
 <details>
 <summary><strong>💡 Optimizing Pricing Strategies</strong></summary>
@@ -131,4 +139,3 @@ Real-time tool to monitor and visualize employee performance using Python, Matpl
 <p align="center">
   <em>⚙️ Automating the boring stuff, so humans can focus on what matters.</em>
 </p>
-
