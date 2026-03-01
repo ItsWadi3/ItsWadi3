@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+%40ItsWadi3;Automation+Engineer+%7C+n8n+%7C+Antigravity+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+%40ItsWadi3;Automation+Engineer+%7C+n8n+%7C+Antigravity+%7C+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ItsWadi3"><img src="https://img.shields.io/badge/GitHub-ItsWadi3-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/n8n-Automation_Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-AI_Agent-6C63FF?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=chatbot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -131,3 +132,4 @@ Real-time tool to monitor and visualize employee performance using Python, Matpl
 <p align="center">
   <em>⚙️ Automating the boring stuff, so humans can focus on what matters.</em>
 </p>
+
