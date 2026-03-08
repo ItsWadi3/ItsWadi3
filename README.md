@@ -61,14 +61,14 @@ I also work with **Python** for machine learning and data analysis, and I'm curr
 
 ## 📌 Current Projects
 
-### 📄 Document Processing and Data Extraction with AI
+### 📄 Document Processing and Data Extraction Workflow
 
-> Using AI to read and classify invoices, contracts, and applications, then inserting structured data into ERP/CRM systems automatically.
+> Creating an N8N workflow to read and classify invoices, contracts, and applications, then inserting structured data into ERP/CRM systems automatically.
 
 | | |
 |---|---|
-| **Approach** | AI-powered document classification and data extraction |
-| **Tools** | n8n, Antigravity, API Integrations |
+| **Approach** | Document classification and data extraction |
+| **Tools** | n8n, API Integrations |
 | **Goal** | Automate end-to-end document workflows from intake to ERP/CRM entry |
 
 ---
